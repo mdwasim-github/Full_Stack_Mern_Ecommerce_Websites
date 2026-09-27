@@ -118,7 +118,7 @@ These requirements serve as a foundation for the development of the ecommerce we
 
 ![Screenshot (139)](https://github.com/mdwasim-github/Full_Stack_Mern_Ecommerce_Websites/blob/main/Screenshot%202026-09-27%20044624.png)
 
-![Screenshot_2023-08-04_09-45-11](https://github.com/DevJariwala5/Full_MERN_Stack_Ecommerce_Project/assets/111644496/3b0de7a9-e143-4d4b-8852-7ff9055120fb)
+![Screenshot_2023-08-04_09-45-11](https://github.com/mdwasim-github/Full_Stack_Mern_Ecommerce_Websites/blob/main/Screenshot%202026-09-27%20131228.png)
 
 
 ![Screenshot_2023-08-04_09-45-21](https://github.com/DevJariwala5/Full_MERN_Stack_Ecommerce_Project/assets/111644496/2c986c5b-bf09-4cf5-b02c-f9192b902afe)
